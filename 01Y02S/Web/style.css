@@ -1,0 +1,45 @@
+@charset "utf-8";
+.container-fluid .container {
+    background-color: rgba(131,78,155,1.00);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    color: rgba(205,35,38,1.00);
+    background-color: rgba(189,188,47,1.00);
+
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 {
+    color: rgba(145,37,39,1.00);
+    background-color: rgba(113,149,160,1.00);
+}
+.container-fluid .container .card.col-md-4.col-lg-12 {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,221,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,221,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,221,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,221,0,1.00) 100%);
+    color: rgba(205,34,36,1.00);
+}
+.col-lg-4 .card.col-md-4.col-lg-10 .card-body {
+    color: rgba(152,68,123,1.00);
+}
+.card.col-md-4.col-lg-10 .card-body .card-title {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    color: rgba(160,131,33,1.00);
+    font-style: italic;
+}
+.col-lg-4 .card.col-md-4.col-lg-10 .card-body {
+    color: rgba(18,159,191,1.00);
+
+}
+.container .row .col-lg-1 {
+    color: rgba(107,41,146,1.00);
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: medium;
+}
+.row .card.col-md-4 .card-header1 {
+    padding: 5;
+}
+.row .card.col-md-4 .card-header1 {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-style: oblique;
+    font-size: large;
+}
