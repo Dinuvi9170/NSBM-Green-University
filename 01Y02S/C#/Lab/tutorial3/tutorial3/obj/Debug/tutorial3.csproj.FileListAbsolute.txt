@@ -1,0 +1,8 @@
+D:\c#\tutorial3\tutorial3\bin\Debug\tutorial3.exe.config
+D:\c#\tutorial3\tutorial3\bin\Debug\tutorial3.exe
+D:\c#\tutorial3\tutorial3\bin\Debug\tutorial3.pdb
+D:\c#\tutorial3\tutorial3\obj\Debug\tutorial3.csproj.AssemblyReference.cache
+D:\c#\tutorial3\tutorial3\obj\Debug\tutorial3.csproj.SuggestedBindingRedirects.cache
+D:\c#\tutorial3\tutorial3\obj\Debug\tutorial3.csproj.CoreCompileInputs.cache
+D:\c#\tutorial3\tutorial3\obj\Debug\tutorial3.exe
+D:\c#\tutorial3\tutorial3\obj\Debug\tutorial3.pdb
