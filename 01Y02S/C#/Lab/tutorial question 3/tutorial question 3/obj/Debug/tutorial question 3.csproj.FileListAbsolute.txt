@@ -1,0 +1,8 @@
+D:\c#\tutorial question 3\tutorial question 3\bin\Debug\tutorial question 3.exe.config
+D:\c#\tutorial question 3\tutorial question 3\bin\Debug\tutorial question 3.exe
+D:\c#\tutorial question 3\tutorial question 3\bin\Debug\tutorial question 3.pdb
+D:\c#\tutorial question 3\tutorial question 3\obj\Debug\tutorial question 3.csproj.AssemblyReference.cache
+D:\c#\tutorial question 3\tutorial question 3\obj\Debug\tutorial question 3.csproj.SuggestedBindingRedirects.cache
+D:\c#\tutorial question 3\tutorial question 3\obj\Debug\tutorial question 3.csproj.CoreCompileInputs.cache
+D:\c#\tutorial question 3\tutorial question 3\obj\Debug\tutorial question 3.exe
+D:\c#\tutorial question 3\tutorial question 3\obj\Debug\tutorial question 3.pdb
