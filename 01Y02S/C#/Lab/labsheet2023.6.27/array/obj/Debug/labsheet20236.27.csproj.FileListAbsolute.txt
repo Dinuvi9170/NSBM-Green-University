@@ -1,0 +1,8 @@
+D:\c#\labsheet20236.27\labsheet20236.27\bin\Debug\labsheet20236.27.exe.config
+D:\c#\labsheet20236.27\labsheet20236.27\bin\Debug\labsheet20236.27.exe
+D:\c#\labsheet20236.27\labsheet20236.27\bin\Debug\labsheet20236.27.pdb
+D:\c#\labsheet20236.27\labsheet20236.27\obj\Debug\labsheet20236.27.csproj.AssemblyReference.cache
+D:\c#\labsheet20236.27\labsheet20236.27\obj\Debug\labsheet20236.27.csproj.SuggestedBindingRedirects.cache
+D:\c#\labsheet20236.27\labsheet20236.27\obj\Debug\labsheet20236.27.csproj.CoreCompileInputs.cache
+D:\c#\labsheet20236.27\labsheet20236.27\obj\Debug\labsheet20236.27.exe
+D:\c#\labsheet20236.27\labsheet20236.27\obj\Debug\labsheet20236.27.pdb

@@ -1,0 +1,8 @@
+D:\c#\matrix1\matrix1\bin\Debug\matrix1.exe.config
+D:\c#\matrix1\matrix1\bin\Debug\matrix1.exe
+D:\c#\matrix1\matrix1\bin\Debug\matrix1.pdb
+D:\c#\matrix1\matrix1\obj\Debug\matrix1.csproj.AssemblyReference.cache
+D:\c#\matrix1\matrix1\obj\Debug\matrix1.csproj.SuggestedBindingRedirects.cache
+D:\c#\matrix1\matrix1\obj\Debug\matrix1.csproj.CoreCompileInputs.cache
+D:\c#\matrix1\matrix1\obj\Debug\matrix1.exe
+D:\c#\matrix1\matrix1\obj\Debug\matrix1.pdb
