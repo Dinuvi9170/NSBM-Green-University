@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #p1,#p2,#p3{ width:200px;
+       height:200px;
+     background-color:darkcyan;
+     color:beige;
+     text-align:center;
+     padding: 20px;
+     margin:30px;
+     border:2px solid pink;
+}
+    </style>
+</head>
+<body>
+    <h1>Change Background Color</h1>
+    <div id="p">
+    <div id="p1">
+    <button class="color-button" name="redButton" onmouseover="changeToRed();"
+        onmouseout="restoreBackgroundColor();">Red</button></div>
+        <div id="p2">
+    <button class="color-button" name="greenButton" onmouseover="changeToGreen();"
+        onmouseout="restoreBackgroundColor();">Green</button></div>
+        <div id="p3">
+    <button class="color-button" name="blueButton" onmouseover="changeToBlue();"
+        onmouseout="restoreBackgroundColor();">Blue</button></div>
+    </div>
+       
+    <script>
+       
+        function changeToRed() {
+            p1.style.backgroundColor = "red";
+        }
+       
+
+        function changeToGreen() {
+            p2.style.backgroundColor = "green";
+        }
+
+        function changeToBlue() {
+            p3.style.backgroundColor = "blue";
+        }
+        function restoreBackgroundColor() {
+            p1.style.backgroundColor = "";
+        }
+        
+        function restoreBackgroundColor() {
+            p2.style.backgroundColor = "";
+        }
+        function restoreBackgroundColor() {
+            p3.style.backgroundColor = "";
+        }
+       
+    </script>
+ 
+</body>
+</html>
