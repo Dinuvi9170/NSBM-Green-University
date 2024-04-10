@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T08:29:27.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="POVS5s8-ieolpBX3ZiI7" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T08:31:19.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JBnEaMMR9NHEDMKkTiSb" version="24.2.3" type="github">
   <diagram name="Page-1" id="qMmKzClURqZE4YXNun2Q">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,16 +28,16 @@
         <mxCell id="2ciM-f5u6z-tbXX4EQOi-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2ciM-f5u6z-tbXX4EQOi-1">
           <mxGeometry x="40" y="70" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2ciM-f5u6z-tbXX4EQOi-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="2ciM-f5u6z-tbXX4EQOi-2" value="Tourist" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="310" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ciM-f5u6z-tbXX4EQOi-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="2ciM-f5u6z-tbXX4EQOi-3" value="Local Guide" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="610" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ciM-f5u6z-tbXX4EQOi-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="2ciM-f5u6z-tbXX4EQOi-4" value="Business Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="560" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ciM-f5u6z-tbXX4EQOi-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="2ciM-f5u6z-tbXX4EQOi-5" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="260" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
